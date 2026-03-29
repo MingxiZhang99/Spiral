@@ -1,0 +1,25 @@
+Game : (room:12) [room12.asc:5] SetObjectFrame: invalid loop number used for view 13 (1, range is 0 - 0)
+Game : (room:12) Dialog: all options have been turned off, stopping dialog.
+Game : (room:13) [room13.asc:6] SetObjectFrame: invalid loop number used for view 16 (1, range is 0 - 0)
+Game : (room:10) WARNING: requested event handler function 'room_FirstLoad' not found (Room 10)
+Game : (room:10) [TwoClickHandler.asc:168] MoveCharacter: character cRoger is turned off and cannot be moved
+Game : (room:11) [room11.asc:5] SetObjectFrame: invalid loop number used for view 14 (1, range is 0 - 0)
+Game : (room:11) Dialog: all options have been turned off, stopping dialog.
+Game : (room:16) [room16.asc:5] SetObjectFrame: frame index out of range (1, must be 0 - 0)
+Game : (room:16) [room16.asc:10] SetObjectFrame: invalid loop number used for view 19 (2, range is 0 - 0)
+Game : (room:7) WARNING: requested event handler function 'room_Load' not found (Room 7)
+Game : (room:7) [room7.asc:7] SetObjectFrame: invalid loop number used for view 5 (1, range is 0 - 0)
+Game : (room:9) [TwoClickHandler.asc:168] MoveCharacter: character cRoger is turned off and cannot be moved
+Game : (room:9) [room9.asc:33] SetObjectFrame: invalid loop number used for view 25 (2, range is 0 - 0)
+Game : (room:9) [room9.asc:5] SetObjectFrame: frame index out of range (1, must be 0 - 0)
+Game : (room:14) [room14.asc:9] SetObjectFrame: invalid loop number used for view 17 (1, range is 0 - 0)
+Game : (room:8) [room8.asc:31] SetObjectFrame: invalid loop number used for view 7 (2, range is 0 - 0)
+Game : (room:8) [room8.asc:51] SetObjectFrame: invalid loop number used for view 8 (2, range is 0 - 0)
+Game : (room:8) [room8.asc:85] SetObjectFrame: invalid loop number used for view 6 (2, range is 0 - 0)
+Game : (room:15) [room15.asc:25] GUI 0 is set as text window but is not actually a text window GUI
+Game : (room:15) [room15.asc:7] SetObjectFrame: invalid loop number used for view 23 (2, range is 0 - 0)
+Game : (room:15) [TwoClickHandler.asc:168] MoveCharacter: character cRoger is turned off and cannot be moved
+Game : (room:15) [room15.asc:45] SetObjectFrame: invalid loop number used for view 22 (2, range is 0 - 0)
+Game : (room:15) [room15.asc:30] SetObjectFrame: invalid loop number used for view 21 (2, range is 0 - 0)
+Game : (room:17) [room17.asc:5] SetObjectFrame: invalid loop number used for view 24 (1, range is 0 - 0)
+Game : (room:18) [TwoClickHandler.asc:168] MoveCharacter: character cRoger is turned off and cannot be moved
