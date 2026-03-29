@@ -141,36 +141,3 @@ ArtStation: @kattis
 ### ⚠️ Note  
 A security popup may appear on some systems because the executable is not signed.  
 Click **“More info” → “Run anyway”** to proceed.
-
----
-
-## 🎮 Controls  
-
-- **Mouse Click** → Interact  
-- **Esc / Windows Key** → Exit  
-
----
-
-## ⏱️ Game Jam Context  
-
-- **Duration:** 3 days  
-- **Theme:** *Nothing Is As It Looks Like*  
-- **Scope:** Rapid development with a focus on narrative and atmosphere  
-
----
-
-## 💬 Final Notes  
-
-This project explores:
-- Memory distortion  
-- Subtle storytelling  
-- Visual ambiguity  
-
-Despite the short development time, the team aimed to create a cohesive and immersive experience through close collaboration between programming, art, and sound.
-
----
-
-## ❤️ Acknowledgements  
-
-Thank you for playing *Spiral*!  
-We hope you enjoy uncovering what lies beneath the surface.
